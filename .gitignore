@@ -8,6 +8,7 @@ out_capture_system_comparison*/
 out_c3d_initial_offset*/
 out_p6_motive_captury*/
 out_p6_*/
+out_pelvis_isb*/
 
 # Captury/source data are local inputs and should not be committed.
 *.bvh
